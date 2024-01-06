@@ -7,4 +7,9 @@ import tictactoe from './tictac.png';
 import swaad from './swaad.png';
 import portfolio from './portfolio.png';
 import priyanshuDp from  './priyanshuDp.jpg'
-export { hero, about, quiz, todolist, calorie, tictactoe,swaad,portfolio,priyanshuDp};
+import portfoliopic from './portfoliopic.png'
+import neurotrain from './neurotrain.png'
+import querysolver from './querysolver.png'
+import recipemaker from './recipemaker.png'
+import quizapp from './quizapp.png'
+export { hero, about, quiz,quizapp, todolist, calorie, tictactoe,swaad,portfolio,priyanshuDp,portfoliopic,neurotrain,querysolver,recipemaker};
