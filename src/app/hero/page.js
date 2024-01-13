@@ -33,13 +33,13 @@ const Hero = () => {
             <div class="flex items-center py-5 md:w-1/2 md:pb-20 md:pt-10 md:pr-10">
                 <div class="text-left">
                     <h3 className="leading-tight text-3xl" style={{ color: '#ffff00' }}>
-                        Hi! I'm
+                    Hi! I&apos;m
                     </h3>
                     <h2 className='mt-2 text-white text-6xl font-Merriweather'>Priyanshu Rajput</h2>
                     <p className='text-3xl sm:text-4xl lg:text-4xl mt-1' id="typewriter" style={{ color: "#ffff00" }}></p>
                     <p className='text-3xl ' style={{ color: 'white' }}>Transform Your Web Presence with Priyanshu – Crafting Bespoke Solutions Tailored to Your Vision.</p>
                     <p className='text-xl mt-2' style={{ color: 'white' }}>
-                        I'm a freelance developer who create digital products for business and startups.I have a lot of experience in building websites and web applications with modern technologies.
+                    I&apos;m a freelance developer who create digital products for business and startups.I have a lot of experience in building websites and web applications with modern technologies.
                     </p>
                     <div className="mb-4 mt-2 flex sm:items-center lg:items-left">
                         <div className="inline-flex  transition duration-150 ease-in-out" role="group">

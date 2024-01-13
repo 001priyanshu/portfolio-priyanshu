@@ -17,11 +17,11 @@ export default function Home() {
       {loading ? (<Loader />) : (
         <div>
           <Header />
-          <Hero />
+          {/* <Hero /> */}
           <About />
-          <TechStack />
-          <Projects />
-          <Contact />
+          {/* <TechStack /> */}
+          {/* <Projects /> */}
+          {/* <Contact /> */}
         </div>)}
     </div>
   );

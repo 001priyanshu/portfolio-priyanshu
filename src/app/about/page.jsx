@@ -15,9 +15,9 @@ const About = () => {
             <p className='text-left'>
               Discover the future of web development with Priyanshu, where innovation meets craftsmanship. I harness the power of full-stack technology to create robust, intuitive, and adaptive web solutions. My mission is to transform your challenges into cutting-edge experiences that leave a lasting impact.
 
-              With over 2 years of industry expertise in technologies like Next.js, React, Node.js, and MongoDB, I'm dedicated to broadening my technical horizons and bringing your visionary projects to life.
+              With over 2 years of industry expertise in technologies like Next.js, React, Node.js, and MongoDB, I&apos;m dedicated to broadening my technical horizons and bringing your visionary projects to life.
 
-              Let's delve into a partnership that redefines digital excellence. Pushing boundaries is not just a task for me – it's the passion that fuels constant learning and growth. Together, we’ll build a web presence that stands out.
+              Let&apos;s delve into a partnership that redefines digital excellence. Pushing boundaries is not just a task for me – it&apos;s the passion that fuels constant learning and growth. Together, we’ll build a web presence that stands out.
             </p>
             <p className='my-2 text-left'>
               <strong className='font-Merriweather' style={{ color: "#ffff00" }}>Core Skills:</strong>
@@ -28,11 +28,11 @@ const About = () => {
             <p className='my-2 text-left'>
               <strong className='font-Merriweather' style={{ color: "#ffff00" }}>Hobbies:</strong>
               <br />
-              Beyond the world of coding, I find joy in the simplicity of life. In my free time, you'll often find me enjoying the tranquility of swimming, immersing myself in captivating movies and series, and cherishing moments spent with my close circle.
+              Beyond the world of coding, I find joy in the simplicity of life. In my free time, you&apos;ll often find me enjoying the tranquility of swimming, immersing myself in captivating movies and series, and cherishing moments spent with my close circle.
             </p>
 
             <p className='text-left'>
-              Let's connect and explore the possibilities together!
+              Let&apos;s connect and explore the possibilities together!
             </p>
           </div>
 
