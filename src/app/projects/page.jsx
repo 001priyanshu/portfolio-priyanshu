@@ -33,8 +33,8 @@ const Projects = () => {
                         </div>
                         <div className="lg:w-6/12,h:auto md:w-full p-4">
                             <div className="relative rounded-md overflow-hidden group">
-                                <div class="relative w-full p-3 rounded  md:p-8">
-                                    <div class="rounded-lg bg-black text-black w-full">
+                                <div className="relative w-full p-3 rounded  md:p-8">
+                                    <div className="rounded-lg bg-black text-black w-full">
                                         <Image className="project-images" src={project.image} style={{ borderRadius: '10px' }} alt="" />
                                     </div>
                                 </div>

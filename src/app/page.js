@@ -17,10 +17,10 @@ export default function Home() {
       {loading ? (<Loader />) : (
         <div>
           <Header />
-          {/* <Hero /> */}
+          <Hero />
           <About />
-          {/* <TechStack /> */}
-          {/* <Projects /> */}
+          <TechStack />
+          <Projects />
           {/* <Contact /> */}
         </div>)}
     </div>

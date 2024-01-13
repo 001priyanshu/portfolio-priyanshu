@@ -29,9 +29,9 @@ const Hero = () => {
         };
     }, []);
     return (
-        <div class="font-Poppins relative flex flex-col items-center max-w-screen-xl px-4 mx-auto md:flex-row sm:px-6 p-8">
-            <div class="flex items-center py-5 md:w-1/2 md:pb-20 md:pt-10 md:pr-10">
-                <div class="text-left">
+        <div className="font-Poppins relative flex flex-col items-center max-w-screen-xl px-4 mx-auto md:flex-row sm:px-6 p-8">
+            <div className="flex items-center py-5 md:w-1/2 md:pb-20 md:pt-10 md:pr-10">
+                <div className="text-left">
                     <h3 className="leading-tight text-3xl" style={{ color: '#ffff00' }}>
                     Hi! I&apos;m
                     </h3>
@@ -69,9 +69,9 @@ const Hero = () => {
                     </div>
                 </div>
             </div>
-            {/* <div class="flex items-center py-5 md:w-3/4 md:pb-20 md:pt-10 md:pl-10 ">
-                <div class="relative w-full p-3 rounded-full  md:p-8">
-                    <div class=" bg-white border-4 w-40 h-40 rounded-full">
+            {/* <div className="flex items-center py-5 md:w-3/4 md:pb-20 md:pt-10 md:pl-10 ">
+                <div className="relative w-full p-3 rounded-full  md:p-8">
+                    <div className=" bg-white border-4 w-40 h-40 rounded-full">
                         <Image src={priyanshuDp} />
                     </div>
                 </div>
