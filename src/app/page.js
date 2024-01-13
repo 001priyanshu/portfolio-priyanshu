@@ -21,7 +21,7 @@ export default function Home() {
           <About />
           <TechStack />
           <Projects />
-          {/* <Contact /> */}
+          <Contact />
         </div>)}
     </div>
   );
